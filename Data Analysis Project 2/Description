@@ -1,5 +1,5 @@
 This data analysis project simulated questions from the Ministry of Health of Vietnam.
 The data consisted of interview questions and answers from 2069 respondents.
-I was interested in possible relationships between the responds and whether they had taken a medical check-up in the past year.
+I was interested in possible relationships between responses and whether they had taken a medical check-up in the past year.
 This analysis used an AIC step method to find the variables that best fit the Logistic Model. 
 More details can be found on the PDF.
