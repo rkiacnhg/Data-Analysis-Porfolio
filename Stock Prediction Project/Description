@@ -1,4 +1,4 @@
-This is a project doen on using Sentiment Analysis to predict Stock Prices.
-Specifically, the sentiment analysis was done on sentences of articles that were scraped from the web.
-After data was collected, I used an SVM to fit the data.
+This is a project using Sentiment Analysis to predict Stock Prices.
+Specifically, sentiment analysis was done on sentences of articles that were scraped from the web.
+After data was collected, I used a support vector machine to fit the data.
 There were some shortcomings of the project that are discussed in detail in the ipynb file. 
