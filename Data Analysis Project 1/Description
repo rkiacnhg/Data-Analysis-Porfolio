@@ -1,6 +1,6 @@
 This data analysis project was on whether there was a relationship between University Tuition and the Salary of Graduates
 after ten years, and whether there were other variables that affected this relationship.
-A general additive model and a linear model was fit after examining the EDA. 
+A generalized additive model and a linear model was fit after examining the EDA. 
 These two models were fit because two variables that seemed to have a relationship with the response 
 variable may have had a nonlinear relationship with the response variable. The two models were compared, and although neither were perfect,
 the GAM model was chosen because its Model Diagnostics seemed better than the linear model's. 
