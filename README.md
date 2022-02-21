@@ -1,4 +1,4 @@
-There are largely 3 projects shown in this portfolio.
+There are 3 projects shown in this portfolio.
 
 Data Analysis Project 1,
 
